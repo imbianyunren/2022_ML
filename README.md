@@ -42,26 +42,35 @@ py -m pip install -U numpy matplotlib
 
 * **實驗A**
     * 由 y  = 2x + 1 產生samples
+    
 ![](https://i.imgur.com/icfQuqJ.png)
     * 實驗結果(迭代次數、PLA找到的分類線)
+    
 ![](https://i.imgur.com/GpANuUS.jpg)
     * <span style="color:red">紅線</span>為PLA找到的分類線
+    
 ![](https://i.imgur.com/hCCeQ8E.png)
 
 * **實驗B**
     * 由 y  = 2x + 1 產生samples
+    
 ![](https://i.imgur.com/7zYDX59.png)
     * 實驗結果(迭代次數、PLA找到的分類線)
+    
 ![](https://i.imgur.com/zmddgPx.jpg)
     * <span style="color:red">紅線</span>為PLA找到的分類線
+    
 ![](https://i.imgur.com/B88B0bq.png)
 
 * **實驗C**
     * 由 y  = 2x + 1 產生samples
+    
 ![](https://i.imgur.com/qbCEDzq.png)
     * 實驗結果(迭代次數、PLA找到的分類線)
+    
 ![](https://i.imgur.com/l5Cqu0a.jpg)
     * <span style="color:red">紅線</span>為PLA找到的分類線
+    
 ![](https://i.imgur.com/a8bCXO4.png)
 
 ###  **迭代次數的平均**
@@ -93,6 +102,7 @@ py -m pip install -U numpy matplotlib
 此外若無設定POCKET上限的話，POCKET會因找不到更低錯誤率的W'而跳不出迴圈，POCKET執行時間可能會無上限(永遠找不到分界線)
 
 #### 但也有例外，幸運的找到對的 W ，不過依舊花了較長的時間才完成，POCKET較PLA多花了1.65秒
+
 ![](https://i.imgur.com/HqZtHZs.jpg)
 
 
@@ -100,6 +110,7 @@ py -m pip install -U numpy matplotlib
 
 
 * **產生samples**
+
   ![](https://i.imgur.com/HdzyF3R.png)
 * **Correct Label & Mislabel產生分界線**
 
