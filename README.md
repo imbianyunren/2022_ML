@@ -44,9 +44,11 @@ py -m pip install -U numpy matplotlib
     * 由 y  = 2x + 1 產生samples
     
 ![](https://i.imgur.com/icfQuqJ.png)
+
     * 實驗結果(迭代次數、PLA找到的分類線)
     
 ![](https://i.imgur.com/GpANuUS.jpg)
+
     * <span style="color:red">紅線</span>為PLA找到的分類線
     
 ![](https://i.imgur.com/hCCeQ8E.png)
