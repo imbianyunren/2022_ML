@@ -42,35 +42,31 @@ py -m pip install -U numpy matplotlib
 
 * **實驗A**
     * 由 y  = 2x + 1 產生samples
+    ![](https://i.imgur.com/icfQuqJ.png)
     
-![](https://i.imgur.com/icfQuqJ.png)
-
     * 實驗結果(迭代次數、PLA找到的分類線)
+    ![](https://i.imgur.com/GpANuUS.jpg)
     
-![](https://i.imgur.com/GpANuUS.jpg)
-
     * <span style="color:red">紅線</span>為PLA找到的分類線
-    
-![](https://i.imgur.com/hCCeQ8E.png)
+    ![](https://i.imgur.com/hCCeQ8E.png)
 
 * **實驗B**
     * 由 y  = 2x + 1 產生samples
+    ![](https://i.imgur.com/7zYDX59.png)
     
-![](https://i.imgur.com/7zYDX59.png)
     * 實驗結果(迭代次數、PLA找到的分類線)
+    ![](https://i.imgur.com/zmddgPx.jpg)
     
-![](https://i.imgur.com/zmddgPx.jpg)
     * <span style="color:red">紅線</span>為PLA找到的分類線
-    
-![](https://i.imgur.com/B88B0bq.png)
+    ![](https://i.imgur.com/B88B0bq.png)
 
 * **實驗C**
     * 由 y  = 2x + 1 產生samples
+    ![](https://i.imgur.com/qbCEDzq.png)
     
-![](https://i.imgur.com/qbCEDzq.png)
     * 實驗結果(迭代次數、PLA找到的分類線)
+    ![](https://i.imgur.com/l5Cqu0a.jpg)
     
-![](https://i.imgur.com/l5Cqu0a.jpg)
     * <span style="color:red">紅線</span>為PLA找到的分類線
     
 ![](https://i.imgur.com/a8bCXO4.png)
